@@ -1,0 +1,11 @@
+build/
+twister-out/
+doxygen_docs/
+.west/
+.venv/
+*.log
+*.elf
+*.bin
+*.hex
+doxygen.txt
+.vscode/
